@@ -1,5 +1,5 @@
 
-[![MasterHead](https://raw.githubusercontent.com/Aditya664/Aditya664/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434342f312a5a352d6c576b797a635242356168676d3971797876672e706e67.png)](https://imdeepakvermaa.io)
+[![MasterHead](https://github.githubassets.com/assets/profile-first-pr-dark-bc160471dcac.svg)](https://imdeepakvermaa.io)
 <h1 align="center">Hi 👋, I'm Deepak Verma</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
