@@ -1,5 +1,5 @@
 
-[![MasterHead](https://github.githubassets.com/assets/profile-first-pr-dark-bc160471dcac.svg)](https://imdeepakvermaa.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://imdeepakvermaa.io)
 <h1 align="center">Hi 👋, I'm Deepak Verma</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
