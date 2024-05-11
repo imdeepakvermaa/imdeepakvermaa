@@ -1,4 +1,4 @@
-![image](https://github.com/imdeepakvermaa/imdeepakvermaa/assets/111647177/99b016cb-e942-41d1-b881-eda4cb9542bf)[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://imdeepakvermaa.io)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://imdeepakvermaa.io)
 <h1 align="center">Hi 👋, I'm Deepak Verma</h1>
 <h3 align="center">A passionate Data Lover from India.</h3>
 
