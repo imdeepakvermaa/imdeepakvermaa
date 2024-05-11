@@ -2,11 +2,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Verma</h1>
 <h3 align="center">A passionate Data Lover from India.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/daea1efa64b64da082d4d0bc7aabe11a85008966274f8e557cdfa59baaa89825/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33632f61652f63363363616531333434373636663134643964313834653561616665643036352e676966">
-
-<p align="left"> <a href="https://twitter.com/imdeepakvermaa" target="_blank"><img src="https://img.shields.io/twitter/follow/imdeepakvermaa?logo=twitter&style=for-the-badge" alt="imdeepakvermaa" /></a> </p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imdeepakvermaa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imdeepakvermaa" height="30" width="40" /></a>
