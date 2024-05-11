@@ -1,19 +1,12 @@
 
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://imdeepakvermaa.io)
+[![MasterHead]([https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg](https://media.licdn.com/dms/image/D4E16AQHTrRF8IMpAgQ/profile-displaybackgroundimage-shrink_200_800/0/1688418018304?e=2147483647&v=beta&t=nrqyAvJ9Ilvql1abxlOvIYuWaJacbMJQ_m6Wy4XQufE))](https://imdeepakvermaa.io)
 <h1 align="center">Hi 👋, I'm Deepak Verma</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate Data Lover from India.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/daea1efa64b64da082d4d0bc7aabe11a85008966274f8e557cdfa59baaa89825/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33632f61652f63363363616531333434373636663134643964313834653561616665643036352e676966">
 
 <p align="left"> <a href="https://twitter.com/imdeepakvermaa" target="blank"><img src="https://img.shields.io/twitter/follow/imdeepakvermaa?logo=twitter&style=for-the-badge" alt="imdeepakvermaa" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Python , JavaScript and Frontend Stuffs**
-
-- 📫 How to reach me **dv24012002@gmail.com**
-
-- ⚡ Fun fact **I am unfunny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
