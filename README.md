@@ -58,7 +58,7 @@
 - Used SQL queries to analyze multi-table data and reduced order processing time by **15%**.  
 - Identified bottlenecks, increasing operational efficiency by **20%**.  
 - Suggested menu & promo changes leading to a **10%** boost in customer satisfaction.  
-🔗 **[Project Link]()**
+🔗 **[Project Link]('https://github.com/imdeepakvermaa/SQL-CaseStudy-PizzaHouse')**
 
 #### **2️⃣ Website Performance Analysis – Data-Driven Insights**  
 📂 *Domain:* Digital Marketing | *Tech Stack:* Python, Pandas, Seaborn, Matplotlib  
@@ -66,7 +66,7 @@
 - Cleaned and explored **200k+ rows** of raw traffic data.  
 - Visualized user trends & marketing channel effectiveness.  
 - Recommended engagement strategies improving performance insights.  
-🔗 **[Project Link]()**
+🔗 **[Project Link]('https://github.com/imdeepakvermaa/website-performance-analysis')**
 
 #### **3️⃣ HR Dashboard – Chocolate Company**  
 📂 *Domain:* HR Analytics | *Tech Stack:* Power BI, Power Query, Excel  
@@ -74,7 +74,7 @@
 - Cleaned & transformed HR data in Excel and Power Query.  
 - Built an interactive Power BI dashboard answering **10 HR-specific KPIs**.  
 - Highlighted insights on salary trends & positive staff growth.  
-🔗 **[Project Link]()**
+🔗 **[Project Link]('https://github.com/imdeepakvermaa/HR-Dashboard-Chocolate-Company')**
 
 ---
 
@@ -96,7 +96,7 @@
 <a href="https://twitter.com/imdeepakvermaa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imdeepakvermaa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imdeepakvermaa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imdeepakvermaa" height="30" width="40" /></a>
 <a href="https://instagram.com/imdeepakvermaa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imdeepakvermaa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/deepakverma" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deepak verma" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@imdeepakvermaa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deepak verma" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/imdeepakvermaa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imdeepakvermaa" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/imdeepakvermaa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="imdeepakvermaa" height="30" width="40" /></a>
 </p>
